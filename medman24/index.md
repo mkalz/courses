@@ -51,7 +51,11 @@ Lernende sind aktiv eingebunden in Aktivitäten zum Wissensaufbau, der Reflexion
 
 Dieser Kurs wurde produziert im Rahmen des Projektes JOKER an der Pädagogischen Hochschule Heidelberg.
 
-![images](https://elmeb.org/joker/wp-content/uploads/sites/19/2021/10/Logo_ohne_UT-e1662112732856-768x485.png)
+
+| Projekt  | Hochschule | Förderorganisation |
+| :--------- | :--------- | :--------- |
+| ![images](/img/jokerlogo.png) | ![images](/img/phlogo.png)    | ![images](/img/lfklogo.jpg)  |
+
 
 
 ## 1 Grundlagen
