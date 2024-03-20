@@ -22,12 +22,19 @@ Die gegenwärtige technologische Entwicklung und das rasante Innovationstempo vo
 
 Lernziele:
 * Die Lernenden können verschiedene Ansätze zur Manipulation von Medien (Foto, Audio, Video) zusammenfassen und erklären
+
 * Die Lernenden können das Konzept der kritischen Medienkompetenz und der synthetischen Realität erklären.
+  
 * Die Lernenden können die Ziele und Dimensionen einer kritischen Medienkompetenz erklären.
+  
 * Die Lernenden verstehen die Herausforderungen bei der Unterscheidung zwischen Realität und Virtualität
+  
 * Die Lernenden können Propaganda erkennen und die Strategien und sprachlichen Aspekte von Propaganda erklären
+  
 * Die Lernenden können erklären, wie Deepfakes konstruiert werden
+  
 * Die Lernenden können verschiedene KI-Tools zur Generierung von Inhalten für den Bildungsbereich einsetzen
+  
 * Die Lernenden kennen verschiedene Kriterien zur Überprüfung von Medien
 
 
