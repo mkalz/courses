@@ -49,7 +49,11 @@ Lernende sind aktiv eingebunden in Aktivitäten zum Wissensaufbau, der Reflexion
   
 * Lernende verfügen über ein hohes Niveau an Medienkompetenz und können sich auch in komplexen Lern- und Designumgebungen sicher zurechtfinden
 
-Dieser Kurs wurde produziert im Rahmen des Projektes JOKER an der Pädagogischen Hochschule Heidelberg.
+**Disclaimer zu Werkzeugen und Online-Diensten:**
+Für die Exploration aktueller KI-Werkzeuge müssen Lernende die Bereitschaft mitbringen, Testaccounts anzulegen. Den Lernenden werden verschiedene Möglichkeiten empfohlen, ihre eigenen Daten zu schützen. Darunter fällt z.B. die nutzung von Wegwerf-E-Mails, damit ein Tracking der persönlichen Daten nicht wirksam ist.
+
+
+Dieser Kurs wurde produziert im Rahmen des Projektes [JOKER](https://elmeb.org/joker) an der Pädagogischen Hochschule Heidelberg.
 
 
 | Projekt  | Hochschule | Förderorganisation |
@@ -62,6 +66,15 @@ Dieser Kurs wurde produziert im Rahmen des Projektes JOKER an der Pädagogischen
 
 
 
+
+
+### Selbstüberprüfung
+
+Wieso ist es schwierig, Realität und Virtualität klar voneinander abzugrenzen?
+
+    [[X]] Only the **X** marks the correct point.
+    [[ ]] Empty ones are wrong.
+    [[X]] ...
 
 
 
@@ -182,36 +195,5 @@ Just add as many points as you wish:
     [( )] ...
 
 
-## Executable Code
+## Grundlagenliteratur
 
-You can make your code executable and define projects:
-
-``` js     -EvalScript.js
-let who = data.first_name + " " + data.last_name;
-
-if(data.online) {
-  who + " is online"; }
-else {
-  who + " is NOT online"; }
-```
-``` json    +Data.json
-{
-  "first_name" :  "Sammy",
-  "last_name"  :  "Shark",
-  "online"     :  true
-}
-```
-<script>
-  // insert the JSON dataset into the local variable data
-  let data = @input(1);
-
-  // eval the script that uses this dataset
-  eval(`@input(0)`);
-</script>
-
-
-## More
-
-Find out what you also can do ...
-
-https://LiaScript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md
