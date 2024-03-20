@@ -59,6 +59,13 @@ Lernvoraussetzungen:
 ## 2 Propaganda und Bildung
 
 
+## 3 Manipulation und Verifikation von Bildern
+
+
+
+## 4 Photoforensik
+
+
 This is your **course** initialization stub.
 
 Please see the [Docs](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md)
