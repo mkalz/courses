@@ -63,10 +63,17 @@ Dieser Kurs wurde produziert im Rahmen des Projektes [JOKER](https://elmeb.org/j
 
 
 ## 1 Grundlagen
+Wir leben in dynamischen Zeiten, in denen viele Grenzen zu verschwimmen scheinen. Durch technologischen Fortschritt 
+
+Chalmers, D. J. (2017). The virtual and the real. Disputatio: International Journal of Philosophy, 9(46). https://sciendo.com/downloadpdf/journals/disp/9/46/article-p309.pdf
 
 
+Kellner, D., & Share, J. (2007). Critical media literacy: Crucial policy choices for a twenty-first-century democracy. Policy Futures in Education, 5(1), 59-69. https://journals.sagepub.com/doi/pdf/10.2304/pfie.2007.5.1.59
+
+Was ist Medienkritik? https://www.medienpaed-ludwigsburg.de/article/download/99/94 
 
 
+### Grundlagenliteratur
 
 ### Selbstüberprüfung
 
@@ -195,5 +202,5 @@ Just add as many points as you wish:
     [( )] ...
 
 
-## Grundlagenliteratur
+## Literatur
 
