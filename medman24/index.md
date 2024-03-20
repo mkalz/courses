@@ -9,8 +9,9 @@ language: de
 
 narrator: DE German Male
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  This course has been developed in the context of a collaboration between
+          Heidelberg University of Education, University of Heidelberg and Columbia University
+          dealing with the concept of critical media literacy (see https://hse-heidelberg.de/forschung-transfer/critical-media-literacy/joint-initiative-teachers-college-columbia-university) and in the context of the federal project "JOKER" (https://elmeb.org/joker) dealing with journalistic and cross-media skills for teacher education.
 -->
 
 # Medien- und Realitätsmanipulation in Zeiten synthetischer Realitäten
@@ -20,14 +21,14 @@ Die gegenwärtige technologische Entwicklung und das rasante Innovationstempo vo
 
 
 Lernziele:
-●	Die Lernenden können verschiedene Ansätze zur Manipulation von Medien (Foto, Audio, Video) zusammenfassen und erklären
-●	Die Lernenden können das Konzept der kritischen Medienkompetenz und der synthetischen Realität erklären.
-●	Die Lernenden können die Ziele und Dimensionen einer kritischen Medienkompetenz erklären.
-●	Die Lernenden verstehen die Herausforderungen bei der Unterscheidung zwischen Realität und Virtualität
-●	Die Lernenden können Propaganda erkennen und die Strategien und sprachlichen Aspekte von Propaganda erklären
-●	Die Lernenden können erklären, wie Deepfakes konstruiert werden
-●	Die Lernenden können verschiedene KI-Tools zur Generierung von Inhalten für den Bildungsbereich einsetzen
-●	Die Lernenden kennen verschiedene Kriterien zur Überprüfung von Medien
+* Die Lernenden können verschiedene Ansätze zur Manipulation von Medien (Foto, Audio, Video) zusammenfassen und erklären
+* Die Lernenden können das Konzept der kritischen Medienkompetenz und der synthetischen Realität erklären.
+* Die Lernenden können die Ziele und Dimensionen einer kritischen Medienkompetenz erklären.
+* Die Lernenden verstehen die Herausforderungen bei der Unterscheidung zwischen Realität und Virtualität
+* Die Lernenden können Propaganda erkennen und die Strategien und sprachlichen Aspekte von Propaganda erklären
+* Die Lernenden können erklären, wie Deepfakes konstruiert werden
+* Die Lernenden können verschiedene KI-Tools zur Generierung von Inhalten für den Bildungsbereich einsetzen
+* Die Lernenden kennen verschiedene Kriterien zur Überprüfung von Medien
 
 
 Lernaktivitäten:
@@ -38,6 +39,17 @@ Lernvoraussetzungen:
 * Lernende bringen die Bereitschaft mit, sich in unbekannte digitale Werkzeuge und Methoden selbstständig einzuarbeiten und diese anzuwenden
 * Lernende verfügen über ein hohes Niveau an Medienkompetenz und können sich auch in komplexen Lern- und Designumgebungen sicher zurechtfinden
 
+
+
+## 1 Grundlagen
+
+
+
+
+
+
+
+## 2 Propaganda und Bildung
 
 
 This is your **course** initialization stub.
