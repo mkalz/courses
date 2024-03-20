@@ -19,8 +19,8 @@ comment:  This course has been developed in the context of a collaboration betwe
 Kurzbeschreibung:
 Die gegenwärtige technologische Entwicklung und das rasante Innovationstempo von Künstlicher Intelligenz  (KI) haben in jüngster Zeit zu einer Situation geführt, in denen Wahrheit und Realität nicht mehr mit den gleichen Werkzeugen von künstlichen oder synthetischen Realitäten zu unterscheiden sind. Konzeptionell war die Unterscheidung zwischen dem "Realen" und dem "Künstlichen" schon immer eine schwierige Dichotomie, und die Manipulation von Medien hat eine lange Geschichte, die mit der Manipulation von analogen Fotos beginnt und derzeit in Deepfakes ihren Höhepunkt findet. Aufgrund der Qualität der Medienmanipulation mit KI-Technologien treten wir in ein Jahrhundert der "synthetischen Realität" ein, in dem die Erkennung von Wahrheit und Fakten immer komplizierter wird. Dies hat enorme Auswirkungen auf die Gesellschaft, aber auch auf die Bildung und Lernprozesse. Das Kursangebot befasst sich mit synthetischen Realitäten als sozio-technologisches Phänomen und wirft eine kritische Perspektive auf die technologischen Funktionalitäten der Medienmanipulation und die philosophischen und ethischen Implikationen für Bildung und Bildungstechnologie. Im Rahmen des Selbstlernkurses beschäftigen sich die Lernenden in unterschiedlichen Formaten mit wissenschaftlicher Literatur und Beispielen von Manipulation und lernen verschiedene Strategien zur Verifikation von Medien kennen.
 
-
 Lernziele:
+
 * Die Lernenden können verschiedene Ansätze zur Manipulation von Medien (Foto, Audio, Video) zusammenfassen und erklären
 
 * Die Lernenden können das Konzept der kritischen Medienkompetenz und der synthetischen Realität erklären.
@@ -42,11 +42,12 @@ Lernaktivitäten:
 Lernende sind aktiv eingebunden in Aktivitäten zum Wissensaufbau, der Reflexion und der Anwendung des erworbenen Wissens. Zum Kursabschluss können Lernende freiwillig ein eigenes Projekt mit Hilfe von Werkzeugen generativer KI durchführen. Die Lernaktivitäten werden im weiteren Verlauf mit LA benannt.
 
 Lernvoraussetzungen:
+
 * Lernende bringen die Bereitschaft mit, sich mit englischsprachigen und deutschsprachigen Texten und Beispielen auseinanderzusetzen
+  
 * Lernende bringen die Bereitschaft mit, sich in unbekannte digitale Werkzeuge und Methoden selbstständig einzuarbeiten und diese anzuwenden
+  
 * Lernende verfügen über ein hohes Niveau an Medienkompetenz und können sich auch in komplexen Lern- und Designumgebungen sicher zurechtfinden
-
-
 
 ## 1 Grundlagen
 
