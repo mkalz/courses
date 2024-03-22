@@ -7,7 +7,7 @@ version:  0.0.1
 
 language: de
 
-narrator: DE German Male
+narrator: Deutsch Male
 
 comment:  This course has been developed in the context of a collaboration between
           Heidelberg University of Education, University of Heidelberg and Columbia University
